@@ -68,3 +68,21 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Login
+***************
+
+URL Login Siswa/Guru : http://localhost/pilketosSMK/
+URL Login Admin/Panitia : hhtp://localhost/pilketosSMK/auth/login
+
+Login admin :
+username : admin
+password : admin
+
+Login panitia :
+username : user
+password : user
+
+
+Sebelum login siswa pastikan sesi pada kelas siswa tersebut sudah di aktifkan. Sesi diaktifkan lewat dashboard admin di menu kelas
