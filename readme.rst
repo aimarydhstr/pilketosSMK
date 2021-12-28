@@ -74,14 +74,19 @@ Login
 ***************
 
 URL Login Siswa/Guru : http://localhost/pilketosSMK/
+
 URL Login Admin/Panitia : hhtp://localhost/pilketosSMK/auth/login
 
-Login admin :
+Login admin 
+
 username : admin
+
 password : admin
 
-Login panitia :
+Login panitia
+
 username : user
+
 password : user
 
 
